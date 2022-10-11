@@ -1,0 +1,18 @@
+*Differentiating between function declaration and function definitions
+
+*Describe Hoisting and its effects on our variables and functions
+
+* Invoke functions with 0 or more parameters
+    *arguments, spread operator
+
+* Describe variable shadowing and its effects on our code.
+
+* Define and describe scope.
+
+* Invoke functions with an IIFE
+
+* Define and describe arrow functions
+    * all the ways to define an arrow functions.
+    * lexical scoping.
+
+* async functions... 
