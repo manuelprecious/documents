@@ -1,3 +1,5 @@
+#JS functions
+
 *Differentiating between function declaration and function definitions
 
 *Describe Hoisting and its effects on our variables and functions
@@ -14,5 +16,12 @@
 * Define and describe arrow functions
     * all the ways to define an arrow functions.
     * lexical scoping.
-
+* Default parameters
+* Describe and describe Higher Order functions
+    * Give examples of each.
+* Newer features of functions
+* Naming functions
+* When to break functions down into more functions.
+* closures...
 * async functions... 
+* call, apply, bind
